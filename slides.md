@@ -13,6 +13,7 @@ mdc: true
 # take snapshot for each slide in the overview
 overviewSnapshots: true
 lineNumbers: true
+colorSchema: dark
 
 ---
 
